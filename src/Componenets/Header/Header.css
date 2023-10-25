@@ -43,7 +43,7 @@
 /* Active link */
 .active-link,
 .nav__link :hover {
-    color: red;
+    color: rgb(000 255 255 );
 }
 
 /*===Breakpoints===*/

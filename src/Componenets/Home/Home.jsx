@@ -3,12 +3,12 @@ import './Home.css'
 import Social from './Social'
 import Data from './Data'
 
-function Home() {
+const Home = () => {
     return (
         <section className="home" id="home">
             <div className="home__container container grid">
                 <div className='home__content grid'>
-                    <Social />
+                    <Social/>
 
                     <div className="home__img"> </div>
 
